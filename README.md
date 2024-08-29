@@ -35,11 +35,12 @@ Welcome to my GitHub profile! I'm a passionate 4th-year B.Tech CSE student at Kr
 
 ## 🎨 Projects
 
-- [Android Calculator Clone](## 🎨 Projects
+## 🎨 Projects
 
-- [Android Calculator Clone](https://github.com/pratikshadandriyal/CALCULATOR): A clone of the Android calculator using HTML, CSS, and JavaScript, designed to resemble the UI of an actual Android device.
-1): A clone of the Android calculator using HTML, CSS, and JavaScript, designed to resemble the UI of an actual Android device.
-- [Daily Checklist Webpage](https://github.com/pratikshadandriyal/project-2): A modern and aesthetic daily checklist web page, focusing on colors, graphics, and font styles.
+- [Flash-Forward](https://github.com/pratikshadandriyal/Flash-Forward): A large-scale flashcard-related project designed to enhance learning and memory retention through interactive flashcards.
+- [CALCULATOR](https://github.com/pratikshadandriyal/CALCULATOR): A clone of the Android calculator using HTML, CSS, and JavaScript, designed to resemble the UI of an actual Android device.
+- [Countdown-Timer](https://github.com/pratikshadandriyal/Countdown-Timer): An animated countdown timer created using HTML, CSS, and JavaScript, perfect for tracking time in style.
+
 
 
 
