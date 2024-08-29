@@ -35,11 +35,16 @@ Welcome to my GitHub profile! I'm a passionate 4th-year B.Tech CSE student at Kr
 
 ## 🎨 Projects
 
-## 🎨 Projects
+- [Flash-Forward](https://github.com/pratikshadandriyal/Flash-Forward): A large-scale flashcard-related project designed to enhance learning and memory retention through interactive flashcards. Features include customizable card decks, spaced repetition, and performance tracking to help users study effectively.
+- [CALCULATOR](https://github.com/pratikshadandriyal/CALCULATOR): A responsive Android calculator clone developed using HTML, CSS, and JavaScript. This project mimics the UI/UX of a native Android calculator, with features like basic arithmetic operations, a clean and user-friendly interface, and mobile responsiveness to give the feel of an actual Android device.
+- [Countdown-Timer](https://github.com/pratikshadandriyal/Countdown-Timer): An animated countdown timer created with HTML, CSS, and JavaScript. This project is perfect for tracking time with a visually appealing interface, featuring smooth animations, customizable time settings, and an alert system when the countdown reaches zero.
 
-- [Flash-Forward](https://github.com/pratikshadandriyal/Flash-Forward): A large-scale flashcard-related project designed to enhance learning and memory retention through interactive flashcards.
-- [CALCULATOR](https://github.com/pratikshadandriyal/CALCULATOR): A clone of the Android calculator using HTML, CSS, and JavaScript, designed to resemble the UI of an actual Android device.
-- [Countdown-Timer](https://github.com/pratikshadandriyal/Countdown-Timer): An animated countdown timer created using HTML, CSS, and JavaScript, perfect for tracking time in style.
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pratikshadandriyal)
+
+### Let's Connect!  
+I'm always open to discussing new ideas, opportunities, or just having a chat about technology. Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/pratiksha-dandriyal). Let's create something amazing together!
 
 
 
