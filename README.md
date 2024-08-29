@@ -4,13 +4,13 @@ Welcome to my GitHub profile! I'm a passionate 4th-year B.Tech CSE student at Kr
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on enhancing my skills in Data Structures and Algorithms, along with frontend projects like an Android calculator clone.
+- 🔭 I’m currently working on enhancing my skills in Data Structures and Algorithms, along with frontend projects .
 - 🌱 I’m currently learning SQL, AI & ML from scratch, and exploring various algorithms and patterns used in coding questions.
 - 👯 I’m looking to collaborate on frontend projects using HTML, CSS, JavaScript, and projects related to Data Structures and Algorithms.
-- 💬 Ask me about frontend development, DSA in Java, and tips for getting placed in product companies.
+- 💬 Ask me about web development and DSA in Java.
 - 📫 How to reach me: pratiksha.dandriyal@example.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love creating aesthetically pleasing web pages and exploring the latest trends in technology!
+- ⚡ Fun fact: I love creating websites and exploring the latest trends in technology!
 
 ## 🔧 Technologies & Tools
 
@@ -20,27 +20,24 @@ Welcome to my GitHub profile! I'm a passionate 4th-year B.Tech CSE student at Kr
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Java](https://www.java.com/en/)
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Python](https://www.python.org/)
+- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 - [SQL](https://www.mysql.com/)
 
 ## 📈 GitHub Stats
 
-![Pratiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Pratiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikshadandriyal&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshadandriyal&layout=compact&theme=radical)
 
 ## 🎨 Projects
 
-- [Android Calculator Clone](https://github.com/your-username/project-1): A clone of the Android calculator using HTML, CSS, and JavaScript, designed to resemble the UI of an actual Android device.
-- [Daily Checklist Webpage](https://github.com/your-username/project-2): A modern and aesthetic daily checklist web page, focusing on colors, graphics, and font styles.
+- [Android Calculator Clone](https://github.com/pratikshadandriyal/project-1): A clone of the Android calculator using HTML, CSS, and JavaScript, designed to resemble the UI of an actual Android device.
+- [Daily Checklist Webpage](https://github.com/pratikshadandriyal/project-2): A modern and aesthetic daily checklist web page, focusing on colors, graphics, and font styles.
 
-## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username)
 
-## 📚 Blogs & Articles
-
-- [Understanding DSA in Java](https://link-to-your-blog-post)
-- [Frontend Development Tips](https://link-to-your-blog-post)
 
