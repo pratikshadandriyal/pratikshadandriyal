@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate 4th-year B.Tech CSE student at Kr
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pratikshadandriyal)
 
 ### Let's Connect!  
-I'm always open to discussing new ideas, opportunities, or just having a chat about technology. Feel free to reach out to me via email or connect with me on [LinkedIn](www.linkedin.com/in/pratikshadandriyal). Let's create something amazing together!
+I'm always open to discussing new ideas, opportunities, or just having a chat about technology. Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/pratikshadandriyal/). Let's create something amazing together!
 
 
 
