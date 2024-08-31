@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate 4th-year B.Tech CSE student at Kr
 - 🌱 I’m currently learning SQL, AI & ML from scratch, and exploring various algorithms and patterns used in coding questions.
 - 👯 I’m looking to collaborate on frontend projects using HTML, CSS, JavaScript, and projects related to Data Structures and Algorithms.
 - 💬 Ask me about web development and DSA in Java.
-- 📫 How to reach me: pratiksha.dandriyal@example.com
+- 📫 How to reach me: pratikshadandriyal@example.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love creating websites and exploring the latest trends in technology!
 
