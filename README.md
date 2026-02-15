@@ -105,6 +105,20 @@ Python, Java, C, HTML, CSS, JavaScript
 Git, GitHub  
 
 ---
+## 🔧 Technologies & Tools
+
+![Your Tech Stack](https://img.shields.io/badge/Tech-Stack-blue)
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Java](https://www.java.com/en/)
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Python](https://www.python.org/)
+- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+- [SQL](https://www.mysql.com/)
+
+  ---
 
 ## 📌 Featured Projects  
 
@@ -129,6 +143,13 @@ Git, GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikshadandriyal&show_icons=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshadandriyal&layout=compact)  
 
+## 📈 GitHub Stats
+
+![Pratiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikshadandriyal&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 📈 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshadandriyal&layout=compact&theme=radical)
 ---
 
 ## 🤝 Let’s Collaborate  
@@ -137,6 +158,15 @@ I’m open to:
 ✔️ Data Analytics Projects  
 ✔️ AI/ML Internships  
 ✔️ Hackathons & Open Source  
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pratikshadandriyal)
+
+### Let's Connect!  
+I'm always open to discussing new ideas, opportunities, or just having a chat about technology. Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/pratikshadandriyal/). Let's create something amazing together!
+
+
 
 ⭐ If you like my work, consider starring my repos!
 
