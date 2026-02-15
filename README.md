@@ -50,3 +50,95 @@ I'm always open to discussing new ideas, opportunities, or just having a chat ab
 
 
 
+
+# 👋 Hi, I'm Pratiksha Dandriyal  
+
+🎓 B.Tech CSE Graduate | 📊 Data Analyst | 🤖 AI & ML Enthusiast  
+📍 India  
+
+📧 Email: pratikshadandriyal@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/pratikshadandriyal  
+💻 GitHub: https://github.com/pratikshadandriyal  
+
+---
+
+## 🚀 About Me  
+
+I’m a Computer Science graduate with hands-on experience in **Data Analytics, AI research, and SQL-based analysis** from internships in healthcare and public data platforms.  
+
+I enjoy:  
+- 📊 Turning raw data into insights  
+- 🤖 Exploring ML & recommendation systems  
+- ⚙️ Automating reports & dashboards  
+- 🧠 Solving real-world problems using data  
+
+🎯 **Career Goal:** Data Analyst / AI Engineer / Business Intelligence roles  
+
+---
+
+## 🧑‍💻 Experience  
+
+**AI Intern – MAX Healthcare (2024)**  
+- Researched **LLMs, NLP & ML models**  
+- Analyzed hospital trends using **Excel**  
+- Built automated sales & reporting workflows  
+
+**PDD – Easy Gov (2024)**  
+- Extracted & analyzed data using **SQL**  
+- Cleaned datasets for accuracy  
+- Performed **trend analysis** for process optimization  
+
+---
+
+## 🛠 Tech Stack  
+
+**📊 Data Analytics:**  
+SQL, Excel (Power Query, Pivot Tables), Python (Pandas, NumPy)  
+
+**🤖 Machine Learning:**  
+Scikit-learn, TensorFlow  
+
+**💻 Programming:**  
+Python, Java, C, HTML, CSS, JavaScript  
+
+**🔧 Tools:**  
+Git, GitHub  
+
+---
+
+## 📌 Featured Projects  
+
+🔹 **E-commerce Sales Dashboard (Excel)**  
+👉 https://github.com/pratikshadandriyal/ecommerce-sales-analysis-dashboard  
+
+🔹 **Product Recommendation System (Python)**  
+👉 https://github.com/pratikshadandriyal/product-recommendation  
+
+---
+
+## 🌱 Currently Learning  
+
+- Advanced SQL (CTEs, Window Functions)  
+- Machine Learning model tuning  
+- Power BI / Tableau (coming soon)  
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikshadandriyal&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshadandriyal&layout=compact)  
+
+---
+
+## 🤝 Let’s Collaborate  
+
+I’m open to:  
+✔️ Data Analytics Projects  
+✔️ AI/ML Internships  
+✔️ Hackathons & Open Source  
+
+⭐ If you like my work, consider starring my repos!
+
+
+
