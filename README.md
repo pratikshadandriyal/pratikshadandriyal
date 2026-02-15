@@ -1,174 +1,26 @@
-# Hi there, I'm Pratiksha Dandriyal 👋
+# 💫 About Me:
+## 🚀 About Me  <br><br>- 📊 I turn messy data into clean, useful insights (yes, I enjoy it)  <br>- 🧠 Obsessed with patterns, trends, and “aha!” moments in data  <br>- 🛠 Skilled in **SQL, Excel, Python** — I don’t just learn tools, I use them  <br>- 🤖 Exploring AI & ML because the future isn’t waiting  <br>- 🧹 I clean data like it personally offended me  <br>- 🚀 Actively building projects instead of just talking about them  <br>- 🎯 Aiming for **Data Analyst / AI roles** — ready to add value, not just sit pretty  <br>
 
-Welcome to my GitHub profile! I'm a passionate 4th-year B.Tech CSE student at Krishna Engineering College, currently focused on frontend development, Data Structures, Algorithms, and Machine Learning.
 
-## 🚀 About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratikshaadandriyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikshadandriyal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratikshadandriyal@gmail.com) 
 
-- 🔭 I’m currently working on enhancing my skills in Data Structures and Algorithms, along with frontend projects .
-- 🌱 I’m currently learning SQL, AI & ML from scratch, and exploring various algorithms and patterns used in coding questions.
-- 👯 I’m looking to collaborate on frontend projects using HTML, CSS, JavaScript, and projects related to Data Structures and Algorithms.
-- 💬 Ask me about web development and DSA in Java.
-- 📫 How to reach me: pratikshadandriyal@example.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love creating websites and exploring the latest trends in technology!
 
-## 🔧 Technologies & Tools
-
-![Your Tech Stack](https://img.shields.io/badge/Tech-Stack-blue)
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Java](https://www.java.com/en/)
-- [C](https://en.wikipedia.org/wiki/C_(programming_language))
-- [Python](https://www.python.org/)
-- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-- [SQL](https://www.mysql.com/)
-
-## 📈 GitHub Stats
-
-![Pratiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikshadandriyal&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-## 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshadandriyal&layout=compact&theme=radical)
-
-## 🎨 Projects
-
-- [Flash-Forward](https://github.com/pratikshadandriyal/Flash-Forward): A large-scale flashcard-related project designed to enhance learning and memory retention through interactive flashcards. Features include customizable card decks, spaced repetition, and performance tracking to help users study effectively.
-- [CALCULATOR](https://github.com/pratikshadandriyal/CALCULATOR): A responsive Android calculator clone developed using HTML, CSS, and JavaScript. This project mimics the UI/UX of a native Android calculator, with features like basic arithmetic operations, a clean and user-friendly interface, and mobile responsiveness to give the feel of an actual Android device.
-- [Countdown-Timer](https://github.com/pratikshadandriyal/Countdown-Timer): An animated countdown timer created with HTML, CSS, and JavaScript. This project is perfect for tracking time with a visually appealing interface, featuring smooth animations, customizable time settings, and an alert system when the countdown reaches zero.
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pratikshadandriyal)
-
-### Let's Connect!  
-I'm always open to discussing new ideas, opportunities, or just having a chat about technology. Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/pratikshadandriyal/). Let's create something amazing together!
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
 
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pratikshadandriyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pratikshadandriyal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshadandriyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-# 👋 Hi, I'm Pratiksha Dandriyal  
-
-🎓 B.Tech CSE Graduate | 📊 Data Analyst | 🤖 AI & ML Enthusiast  
-📍 India  
-
-📧 Email: pratikshadandriyal@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/pratikshadandriyal  
-💻 GitHub: https://github.com/pratikshadandriyal  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-## 🚀 About Me  
-
-I’m a Computer Science graduate with hands-on experience in **Data Analytics, AI research, and SQL-based analysis** from internships in healthcare and public data platforms.  
-
-I enjoy:  
-- 📊 Turning raw data into insights  
-- 🤖 Exploring ML & recommendation systems  
-- ⚙️ Automating reports & dashboards  
-- 🧠 Solving real-world problems using data  
-
-🎯 **Career Goal:** Data Analyst / AI Engineer / Business Intelligence roles  
-
----
-
-## 🧑‍💻 Experience  
-
-**AI Intern – MAX Healthcare (2024)**  
-- Researched **LLMs, NLP & ML models**  
-- Analyzed hospital trends using **Excel**  
-- Built automated sales & reporting workflows  
-
-**PDD – Easy Gov (2024)**  
-- Extracted & analyzed data using **SQL**  
-- Cleaned datasets for accuracy  
-- Performed **trend analysis** for process optimization  
-
----
-
-## 🛠 Tech Stack  
-
-**📊 Data Analytics:**  
-SQL, Excel (Power Query, Pivot Tables), Python (Pandas, NumPy)  
-
-**🤖 Machine Learning:**  
-Scikit-learn, TensorFlow  
-
-**💻 Programming:**  
-Python, Java, C, HTML, CSS, JavaScript  
-
-**🔧 Tools:**  
-Git, GitHub  
-
----
-## 🔧 Technologies & Tools
-
-![Your Tech Stack](https://img.shields.io/badge/Tech-Stack-blue)
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Java](https://www.java.com/en/)
-- [C](https://en.wikipedia.org/wiki/C_(programming_language))
-- [Python](https://www.python.org/)
-- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-- [SQL](https://www.mysql.com/)
-
-  ---
-
-## 📌 Featured Projects  
-
-🔹 **E-commerce Sales Dashboard (Excel)**  
-👉 https://github.com/pratikshadandriyal/ecommerce-sales-analysis-dashboard  
-
-🔹 **Product Recommendation System (Python)**  
-👉 https://github.com/pratikshadandriyal/product-recommendation  
-
----
-
-## 🌱 Currently Learning  
-
-- Advanced SQL (CTEs, Window Functions)  
-- Machine Learning model tuning  
-- Power BI / Tableau (coming soon)  
-
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikshadandriyal&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshadandriyal&layout=compact)  
-
-## 📈 GitHub Stats
-
-![Pratiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikshadandriyal&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-## 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshadandriyal&layout=compact&theme=radical)
----
-
-## 🤝 Let’s Collaborate  
-
-I’m open to:  
-✔️ Data Analytics Projects  
-✔️ AI/ML Internships  
-✔️ Hackathons & Open Source  
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pratikshadandriyal)
-
-### Let's Connect!  
-I'm always open to discussing new ideas, opportunities, or just having a chat about technology. Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/pratikshadandriyal/). Let's create something amazing together!
-
-
-
-⭐ If you like my work, consider starring my repos!
+[![](https://visitcount.itsvg.in/api?id=pratikshadandriyal&icon=1&color=11)](https://visitcount.itsvg.in)
 
 
 
