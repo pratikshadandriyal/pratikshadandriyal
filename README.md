@@ -11,9 +11,9 @@
 ### 🎯 On a Mission to Turn Raw Data into Real Decisions
 *Fresher | Data Analyst Aspirant | AI & ML Enthusiast*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pratikshadandriyal)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratikshadandriyal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikshadandriyal@gmail.com)
 
 </div>
 
@@ -26,7 +26,7 @@ pratiksha = {
     "status"     : "Actively seeking Data Analyst / AI roles 🔍",
     "superpower" : "Turning messy data into clean, useful insights",
     "approach"   : "Build projects. Don't just talk about them.",
-    "currently"  : "Exploring Machine Learning & AI",
+    "currently"  : "Deep-diving into Data Analysis & Visualization 📊",
     "fun_fact"   : "I clean data like it personally offended me 🧹"
 }
 ```
