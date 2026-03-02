@@ -68,8 +68,8 @@ pratiksha = {
 | 🎪 Role | 💡 What I Bring |
 |---|---|
 | **Data Analyst** | SQL + Python + Power BI for end-to-end analysis |
-| **Business Analyst** | Translating data into business decisions |
-| **AI/ML Engineer (Junior)** | Foundations in ML, actively building knowledge |
+
+
 
 ---
 
