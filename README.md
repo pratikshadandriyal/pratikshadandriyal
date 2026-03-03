@@ -76,17 +76,24 @@ pratiksha = {
 ## 📌 Featured Projects
 
 ```
-🔧 Project 1 — Banking Analytics Dashboard
-   └── Built a 2-page Power BI dashboard on 10,000+ banking records using SQL Server, DAX & Power Query Editor
-       Engineered 11 KPIs covering customer demographics, transaction trends & 90-day inactive account detection
-       🔗 https://github.com/pratikshadandriyal/Banking-Analytics-PowerBI
+### 🏦 Project 1 — Banking Analytics Dashboard
+   └── **What it does:** Analyzes 10,000+ banking records covering customer demographics,
+       transaction trends, account balances, and inactive account detection
+   └── **Tools used:** SQL Server · Power BI · DAX · Power Query Editor
+   └── **Key insight:** Identified Top N high-value customers, 90-day inactive accounts,
+       and monthly transaction trends across Credit & Debit types
+   └── 🔗 [View Project](https://github.com/pratikshadandriyal/Banking-Analytics-PowerBI)
 
-📊 Project 2 — [Name]
-   └── What it does, tools used, key insight found
+### 📊 Project 2 — AI Job Displacement & Reskilling Dashboard
+   └── **What it does:** Analyzes AI's impact on 13,700+ job records across 9 countries 
+       covering automation risk, salary changes, and reskilling urgency (2020–2026)
+   └── **Tools used:** Python · SQL Server · Power BI · DAX · Power Query
+   └── **Key insight:** 27.78% of jobs face high automation risk; Energy & Finance 
+       most disrupted; avg salary increased by $3,500 post AI adoption
+   └── 🔗 [View Project](https://github.com/pratikshadandriyal/ai-job-displacement-dashboard)
 
-🤖 Project 3 — [Name]
-   └── What it does, tools used, key insight found
-```
+
+
 
 ---
 
