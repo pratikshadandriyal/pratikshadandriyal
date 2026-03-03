@@ -69,31 +69,23 @@ pratiksha = {
 |---|---|
 | **Data Analyst** | SQL + Python + Power BI for end-to-end analysis |
 
-
-
 ---
 
 ## 📌 Featured Projects
 
-```
 ### 🏦 Project 1 — Banking Analytics Dashboard
-   └── **What it does:** Analyzes 10,000+ banking records covering customer demographics,
-       transaction trends, account balances, and inactive account detection
-   └── **Tools used:** SQL Server · Power BI · DAX · Power Query Editor
-   └── **Key insight:** Identified Top N high-value customers, 90-day inactive accounts,
-       and monthly transaction trends across Credit & Debit types
-   └── 🔗 [View Project](https://github.com/pratikshadandriyal/Banking-Analytics-PowerBI)
+
+- **What it does:** Analyzes 10,000+ banking records covering customer demographics, transaction trends, account balances, and inactive account detection
+- **Tools used:** SQL Server · Power BI · DAX · Power Query Editor
+- **Key insight:** Identified Top N high-value customers, 90-day inactive accounts, and monthly transaction trends across Credit & Debit types
+- 🔗 [View Project](https://github.com/pratikshadandriyal/Banking-Analytics-PowerBI)
 
 ### 📊 Project 2 — AI Job Displacement & Reskilling Dashboard
-   └── **What it does:** Analyzes AI's impact on 13,700+ job records across 9 countries 
-       covering automation risk, salary changes, and reskilling urgency (2020–2026)
-   └── **Tools used:** Python · SQL Server · Power BI · DAX · Power Query
-   └── **Key insight:** 27.78% of jobs face high automation risk; Energy & Finance 
-       most disrupted; avg salary increased by $3,500 post AI adoption
-   └── 🔗 [View Project](https://github.com/pratikshadandriyal/ai-job-displacement-dashboard)
 
-
-
+- **What it does:** Analyzes AI's impact on 13,700+ job records across 9 countries covering automation risk, salary changes, and reskilling urgency (2020–2026)
+- **Tools used:** Python · SQL Server · Power BI · DAX · Power Query
+- **Key insight:** 27.78% of jobs face high automation risk; Energy & Finance most disrupted; avg salary increased by $3,500 post AI adoption
+- 🔗 [View Project](https://github.com/pratikshadandriyal/ai-job-displacement-dashboard)
 
 ---
 
@@ -103,10 +95,6 @@ pratiksha = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikshadandriyal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshadandriyal&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pratikshadandriyal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
