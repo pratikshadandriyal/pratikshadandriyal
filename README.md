@@ -77,8 +77,10 @@ pratiksha = {
 
 > *(Add your projects here as you build them!)*
 ```
-🔧 Project 1 — [Name]
-   └── What it does, tools used, key insight found
+🔧 Project 1 — Banking Analytics Dashboard
+   └── Built a 2-page Power BI dashboard on 10,000+ banking records using SQL Server, DAX & Power Query Editor
+       Engineered 11 KPIs covering customer demographics, transaction trends & 90-day inactive account detection
+       🔗 https://github.com/pratikshadandriyal/Banking-Analytics-PowerBI
 
 📊 Project 2 — [Name]
    └── What it does, tools used, key insight found
