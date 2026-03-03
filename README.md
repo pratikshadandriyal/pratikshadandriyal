@@ -75,7 +75,6 @@ pratiksha = {
 
 ## 📌 Featured Projects
 
-> *(Add your projects here as you build them!)*
 ```
 🔧 Project 1 — Banking Analytics Dashboard
    └── Built a 2-page Power BI dashboard on 10,000+ banking records using SQL Server, DAX & Power Query Editor
