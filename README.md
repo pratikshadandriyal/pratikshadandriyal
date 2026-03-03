@@ -85,7 +85,7 @@ pratiksha = {
 - **What it does:** Analyzes AI's impact on 13,700+ job records across 9 countries covering automation risk, salary changes, and reskilling urgency (2020–2026)
 - **Tools used:** Python · SQL Server · Power BI · DAX · Power Query
 - **Key insight:** 27.78% of jobs face high automation risk; Energy & Finance most disrupted; avg salary increased by $3,500 post AI adoption
-- 🔗 [View Project](https://github.com/pratikshadandriyal/ai-job-displacement-dashboard)
+- 🔗 [View Project](https://github.com/pratikshadandriyal/AI-Job-Displacement-Reskilling-Dashboard)
 
 ---
 
