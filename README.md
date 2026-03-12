@@ -89,11 +89,12 @@ pratiksha = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikshadandriyal&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pratikshadandriyal&theme=tokyonight&hide_border=true"/>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=pratikshadandriyal&theme=tokyo-night&hide_border=true)
+
 </div>
 ---
 
