@@ -73,19 +73,23 @@ pratiksha = {
 
 ## 📌 Featured Projects
 
-### 🏦 Project 1 — Banking Analytics Dashboard
-
-- **What it does:** Analyzes 10,000+ banking records covering customer demographics, transaction trends, account balances, and inactive account detection
-- **Tools used:** SQL Server · Power BI · DAX · Power Query Editor
-- **Key insight:** Identified Top N high-value customers, 90-day inactive accounts, and monthly transaction trends across Credit & Debit types
-- 🔗 [View Project](https://github.com/pratikshadandriyal/Banking-Analytics-PowerBI)
+### 📈 Project 1 — SaaS Product Analytics Dashboard
+- **What it does:** Analyzes user behaviour, feature adoption, churn patterns, and revenue metrics for a B2B SaaS company across 5,000 users, 6,566 sessions, and 14,996 feature interactions
+- **Tools used:** Python · SQL Server · Power BI · DAX · Power Query
+- **Key insight:** Only 25.5% of users are paid & active; users adopting 5 features convert at 55.3% vs 46.9% for single-feature users; $90,548 MRR lost to churn monthly
+- 🔗 [View Project](https://github.com/pratikshadandriyal/SaaS-Product-Analytics-Dashboard)
 
 ### 📊 Project 2 — AI Job Displacement & Reskilling Dashboard
-
 - **What it does:** Analyzes AI's impact on 13,700+ job records across 9 countries covering automation risk, salary changes, and reskilling urgency (2020–2026)
 - **Tools used:** Python · SQL Server · Power BI · DAX · Power Query
 - **Key insight:** 27.78% of jobs face high automation risk; Energy & Finance most disrupted; avg salary increased by $3,500 post AI adoption
 - 🔗 [View Project](https://github.com/pratikshadandriyal/AI-Job-Displacement-Reskilling-Dashboard)
+
+### 🏦 Project 3 — Banking Analytics Dashboard
+- **What it does:** Analyzes 10,000+ banking records covering customer demographics, transaction trends, account balances, and inactive account detection
+- **Tools used:** SQL Server · Power BI · DAX · Power Query Editor
+- **Key insight:** Identified Top N high-value customers, 90-day inactive accounts, and monthly transaction trends across Credit & Debit types
+- 🔗 [View Project](https://github.com/pratikshadandriyal/Banking-Analytics-PowerBI)
 
 ---
 
