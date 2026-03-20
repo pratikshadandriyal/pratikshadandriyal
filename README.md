@@ -72,19 +72,34 @@ pratiksha = {
 
 ## 📌 Featured Projects
 
-### 📈 Project 1 — SaaS Product Analytics Dashboard
+### 🖥️ Project 1 — Helpdesk Performance & SLA Analytics *(Most Recent)*
+- **What it does:** End-to-end IT support operations dashboard analyzing 8,000 tickets across 8 departments and 20 agents — tracking SLA compliance, agent workload, resolution times, and peak load patterns over 26 months (Jan 2024 – Feb 2026)
+- **Tools used:** Python · SQL Server · Power BI · DAX
+- **Why it stands out:** Designed specifically for IT services companies (TCS, Infosys, Wipro). Includes a Day × Hour peak load heatmap and an Agent Workload vs Breach Rate scatter chart — two visuals rarely seen in fresher portfolios
+- **Key insights:** 23.49% overall SLA breach rate with no improvement trend over 26 months — a systemic staffing issue; Network category breaches at 37.5%; 3 agents carry 35% of total ticket volume; Marketing dept generates highest tickets per employee at 22.97
+- 🔗 [View Project](https://github.com/pratikshadandriyal/Helpdesk-Performance-SLA-Analytics)
+
+---
+
+### 📈 Project 2 — SaaS Product Analytics Dashboard
 - **What it does:** Analyzes user behaviour, feature adoption, churn patterns, and revenue metrics for a B2B SaaS company across 5,000 users, 6,566 sessions, and 14,996 feature interactions
 - **Tools used:** Python · SQL Server · Power BI · DAX · Power Query
+- **Why it stands out:** Goes beyond surface-level dashboards — tracks the full B2B SaaS funnel from activation to churn with revenue impact quantified in dollars. Feature adoption correlation analysis (5 features = 55.3% conversion) shows product analytics thinking, not just reporting.
 - **Key insight:** Only 25.5% of users are paid & active; users adopting 5 features convert at 55.3% vs 46.9% for single-feature users; $90,548 MRR lost to churn monthly
 - 🔗 [View Project](https://github.com/pratikshadandriyal/SaaS-Product-Analytics-Dashboard)
 
-### 📊 Project 2 — AI Job Displacement & Reskilling Dashboard
+---
+
+### 🤖 Project 3 — AI Job Displacement & Reskilling Dashboard
 - **What it does:** Analyzes AI's impact on 13,700+ job records across 9 countries covering automation risk, salary changes, and reskilling urgency (2020–2026)
 - **Tools used:** Python · SQL Server · Power BI · DAX · Power Query
+- **Why it stands out:** Deliberately chosen to avoid oversaturated e-commerce datasets — addresses a topic every hiring manager in tech is thinking about right now
 - **Key insight:** 27.78% of jobs face high automation risk; Energy & Finance most disrupted; avg salary increased by $3,500 post AI adoption
 - 🔗 [View Project](https://github.com/pratikshadandriyal/AI-Job-Displacement-Reskilling-Dashboard)
 
-### 🏦 Project 3 — Banking Analytics Dashboard
+---
+
+### 🏦 Project 4 — Banking Analytics Dashboard
 - **What it does:** Analyzes 10,000+ banking records covering customer demographics, transaction trends, account balances, and inactive account detection
 - **Tools used:** SQL Server · Power BI · DAX · Power Query Editor
 - **Key insight:** Identified Top N high-value customers, 90-day inactive accounts, and monthly transaction trends across Credit & Debit types
@@ -99,6 +114,7 @@ pratiksha = {
 ![](https://github-readme-activity-graph.vercel.app/graph?username=pratikshadandriyal&theme=tokyo-night&hide_border=true)
 
 </div>
+
 ---
 
 ## 💭 My Data Philosophy
@@ -117,3 +133,4 @@ pratiksha = {
 ![Profile Views](https://komarev.com/ghpvc/?username=pratikshadandriyal&color=blueviolet&style=for-the-badge)
 
 </div>
+
