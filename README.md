@@ -30,7 +30,6 @@ pratiksha = {
     "fun_fact"   : "I clean data like it personally offended me 🧹"
 }
 ```
-
 ---
 
 ## 🛠️ Tech Stack
