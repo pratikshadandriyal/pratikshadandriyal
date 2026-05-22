@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=Data+Analyst+%C2%B7+SQL+Server+%C2%B7+Power+BI+%C2%B7+Python;SaaS+Analytics+%C2%B7+IT+Operations+%C2%B7+Healthcare+Data;End-to-end+dashboards+%C2%B7+DAX+%C2%B7+Data+Modeling;Open+to+Data+Analyst+roles+%C2%B7+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=Data+Analyst+%C2%B7+SQL+Server+%C2%B7+Power+BI+%C2%B7+Python;SaaS+Analytics+%C2%B7+IT+Operations+%C2%B7+Workforce+Analytics;End-to-end+dashboards+%C2%B7+DAX+%C2%B7+Data+Modeling;Open+to+Data+Analyst+roles+%C2%B7+India" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## About Me
 
-Data Analyst with experience in healthcare (MAX Healthcare) and govtech (EasyGov). I build end-to-end analytics solutions — SQL Server data modeling, Python-based ETL, and Power BI dashboards with 20+ DAX measures. Currently targeting Data Analyst roles in IT services and product companies across India.
+Data Analyst with internship experience in healthcare (MAX Healthcare) and govtech (EasyGov). I build analytics solutions from scratch — SQL Server schema design, Python data pipelines, and Power BI dashboards with 15+ DAX measures. Currently targeting Data Analyst roles in IT services and product companies across India.
 
 ---
 
@@ -53,23 +53,23 @@ Data Analyst with experience in healthcare (MAX Healthcare) and govtech (EasyGov
 ## Featured Projects
 
 ### 🖥️ Helpdesk Performance & SLA Analytics
-End-to-end IT support operations dashboard — 8,000 tickets across 8 departments and 20 agents, tracking SLA compliance, agent workload, and resolution patterns over 26 months (Jan 2024 – Feb 2026).
+IT support operations dashboard built on 8,000 tickets across 8 departments and 20 agents — tracking SLA compliance, agent workload, and resolution patterns over 26 months (Jan 2024 – Feb 2026). Schema designed to mirror how ServiceNow and Jira Service Management operate in practice.
 
 **Tools:** SQL Server · Power BI · DAX · Python
 
 | Finding | Value |
 |---------|-------|
-| Overall SLA breach rate | 23.49% — no improvement trend over 26 months |
+| Overall SLA breach rate | 23.49% — no improvement across 26 months |
 | Highest breach category | Network at 37.5% vs Access at 13.1% |
 | Agent overload | 3 agents carry 35% of total ticket volume |
 | Peak load window | Monday 11am–1pm across all departments |
 
-🔗 [View Project](https://github.com/pratikshadandriyal/Helpdesk-Performance-SLA-Analytics)
+🔗 [GitHub](https://github.com/pratikshadandriyal/Helpdesk-Performance-SLA-Analytics) &nbsp;|&nbsp; 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmZlNDc3M2MtNWYzNi00ZjZhLThiMzctYzgyNzIxMDlkNmIwIiwidCI6IjgxNzlhMDY3LTM5NGYtNDI2ZS05M2RhLTMzZmM4MjJmYTgxNSJ9)
 
 ---
 
 ### 📈 SaaS Product Analytics Dashboard
-Product analytics solution covering the full user lifecycle — 5,000 users, 6,566 sessions, 14,996 feature interactions across a normalized 4-table SQL Server schema (Jan 2024 – Dec 2024).
+Product analytics covering the full user lifecycle — 5,000 users, 6,566 sessions, 14,996 feature interactions across a normalised 4-table SQL Server schema (Jan 2024 – Dec 2024).
 
 **Tools:** SQL Server · Power BI · DAX · Python · Power Query
 
@@ -80,31 +80,23 @@ Product analytics solution covering the full user lifecycle — 5,000 users, 6,5
 | MRR lost to churn monthly | $90,548 vs $92,818 retained |
 | Free vs paid engagement | Free users average 2.1 mins more per session |
 
-🔗 [View Project](https://github.com/pratikshadandriyal/SaaS-Product-Analytics-Dashboard)
+🔗 [GitHub](https://github.com/pratikshadandriyal/SaaS-Product-Analytics-Dashboard) &nbsp;|&nbsp; 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDI3NDdkYmEtYzVlMi00OWY3LWE4OGItZDc2MTdiYzM0ZTg4IiwidCI6IjgxNzlhMDY3LTM5NGYtNDI2ZS05M2RhLTMzZmM4MjJmYTgxNSJ9&pageName=8486aca82e4a8c85e571)
 
 ---
 
-### 🤖 AI Job Displacement & Reskilling Dashboard
-Workforce analytics across 13,700+ job records covering automation risk, salary impact, and reskilling urgency across 9 countries and 8 industries (2020–2026).
+### 🤖 AI Job Displacement & Reskilling Analytics
+Workforce analytics across 15,000+ job records covering automation risk, salary outcomes, and reskilling urgency across 9 countries and 8 industries (2020–2026). Built with a full data pipeline — Python for data quality engineering, SQL Server for cleaning and transformation, Power BI for a 4-page interactive dashboard.
 
 **Tools:** SQL Server · Power BI · DAX · Python · Power Query
 
 | Finding | Value |
 |---------|-------|
-| High automation risk jobs | 27.78% of total records |
-| Most disrupted sectors | Energy and Finance |
-| Salary impact post AI adoption | +$3,500 average increase |
+| High automation risk jobs | 30.12% of all records |
+| Most disrupted sectors | Energy (disruption 23.62) and Finance (23.59) |
+| Salary outcome post-reskilling | +$3,567 average — but 41.13% of workers earned less |
+| Highest skill gap role | Teacher and Customer Support Rep at index 51 |
 
-🔗 [View Project](https://github.com/pratikshadandriyal/AI-Job-Displacement-Reskilling-Dashboard)
-
----
-
-### 🏦 Banking Analytics Dashboard
-Analysis of 10,000+ banking records — customer demographics, transaction trends, account balances, and inactive account detection across 3 locations and 31 billing parameters.
-
-**Tools:** SQL Server · Power BI · DAX · Power Query
-
-🔗 [View Project](https://github.com/pratikshadandriyal/Banking-Analytics-PowerBI)
+🔗 [GitHub](https://github.com/pratikshadandriyal/AI-Job-Displacement-Reskilling-Dashboard) &nbsp;|&nbsp; 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg4ZjcwMjctODJlOS00Y2QzLWIxZWQtNWU5OWI1YWFlODY0IiwidCI6IjgxNzlhMDY3LTM5NGYtNDI2ZS05M2RhLTMzZmM4MjJmYTgxNSJ9&pageName=f39879b19818099e3780)
 
 ---
 
