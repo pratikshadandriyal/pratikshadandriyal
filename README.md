@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=Data+Analyst+%C2%B7+SQL+Server+%C2%B7+Power+BI+%C2%B7+Python;SaaS+Analytics+%C2%B7+IT+Operations+%C2%B7+Workforce+Analytics;End-to-end+dashboards+%C2%B7+DAX+%C2%B7+Data+Modeling;Open+to+Data+Analyst+roles+%C2%B7+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=Data+Analyst+%C2%B7+SQL+Server+%C2%B7+Power+BI+%C2%B7+Python; SaaS+Analytics+%C2%B7+IT+Operations+%C2%B7+Workforce+Analytics;End-to-end+dashboards+%C2%B7+DAX+%C2%B7+Data+Modeling;Open+to+Data+Analyst+roles+%C2%B7+India" alt="Typing SVG" />
 
 </div>
 
