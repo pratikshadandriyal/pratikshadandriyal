@@ -52,6 +52,22 @@ Data Analyst with internship experience in healthcare (MAX Healthcare) and govte
 
 ## Featured Projects
 
+### 🏥 Hospital Readmission & Patient Flow Analytics
+End-to-end hospital operations dashboard tracing 30-day readmission drivers across a custom-built, India-calibrated dataset — 9,093 encounters across 6 diagnosis categories at a fictional Delhi-NCR tertiary care hospital (FY 2024-25). Built from scratch after confirming no usable real Indian patient-level dataset exists publicly, and calibrated against ICMR disease-burden data and published Indian out-of-pocket cost studies instead of a generic Kaggle dataset.
+
+**Tools:** SQL Server · Power BI · DAX · Python
+
+| Finding | Value |
+|---------|-------|
+| Overall 30-day readmission rate | 17.5% |
+| Highest vs lowest-risk category | CKD at 25.2% vs Maternal & Neonatal at 5.1% |
+| Age is the cleanest single driver | 4.4% (under 18) → 32.5% (75+) |
+| Frequent-flyer cost concentration | 17.5% of patients → 37.4% of total cost |
+
+🔗 [GitHub](https://github.com/pratikshadandriyal/hospital-readmission-patient-flow-analytics) &nbsp;|&nbsp; 📊 [Live Dashboard](ADD_POWER_BI_SERVICE_LINK_HERE)
+
+---
+
 ### 🖥️ Helpdesk Performance & SLA Analytics
 IT support operations dashboard built on 8,000 tickets across 8 departments and 20 agents — tracking SLA compliance, agent workload, and resolution patterns over 26 months (Jan 2024 – Feb 2026). Schema designed to mirror how ServiceNow and Jira Service Management operate in practice.
 
