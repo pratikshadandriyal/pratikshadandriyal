@@ -50,7 +50,6 @@ I'm not looking to just make charts — I want to find the one number in a mess 
 ![Jupyter](https://img.shields.io/badge/Jupyter-0F2027?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0F2027?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-0F2027?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-0F2027?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
