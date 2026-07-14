@@ -120,17 +120,6 @@ Workforce analytics across 15,000+ job records covering automation risk, salary 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pratikshadandriyal&show_icons=true&theme=transparent&hide_border=true&title_color=2C5364&icon_color=2C5364&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshadandriyal&layout=compact&theme=transparent&hide_border=true&title_color=2C5364&text_color=ffffff" />
-
-</div>
-
----
-
 ## 💭
 
 > *"Without data, you're just another person with an opinion."*
