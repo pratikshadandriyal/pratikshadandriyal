@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pratiksha%20Dandriyal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20SQL%20Server%20%C2%B7%20Power%20BI%20%C2%B7%20Python&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Pratiksha%20Dandriyal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20SQL%20Server%20%C2%B7%20Power%20BI%20%C2%B7%20Python&descAlignY=55&descSize=18" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=Data+Analyst+%C2%B7+SQL+Server+%C2%B7+Power+BI+%C2%B7+Python;SaaS+Analytics+%C2%B7+IT+Operations+%C2%B7+Workforce+Analytics;End-to-end+dashboards+%C2%B7+DAX+%C2%B7+Data+Modeling;Open+to+Data+Analyst+roles+%C2%B7+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2C5364&center=true&vCenter=true&width=780&lines=Data+Analyst+%7C+SQL+Server+%C2%B7+Power+BI+%C2%B7+Python;SaaS+Analytics+%C2%B7+IT+Ops+%C2%B7+Workforce+Analytics;End-to-end+dashboards+%C2%B7+DAX+%C2%B7+Data+Modeling;Open+to+Data+Analyst+Roles+%C2%B7+India" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pratikshadandriyal)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratikshadandriyal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikshadandriyal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pratikshadandriyal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratikshadandriyal)
+[![Gmail](https://img.shields.io/badge/Gmail-2C5364?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikshadandriyal@gmail.com)
 
 </div>
 
@@ -22,7 +22,11 @@
 
 ## About Me
 
-Data Analyst with internship experience in healthcare (MAX Healthcare) and govtech (EasyGov). I build analytics solutions from scratch — SQL Server schema design, Python data pipelines, and Power BI dashboards with 15+ DAX measures. Currently targeting Data Analyst roles in IT services and product companies across India.
+I'm a Data Analyst who builds the whole pipeline myself — schema design in SQL Server, cleaning and feature engineering in Python, and interactive Power BI dashboards with DAX measures. During my internships at **MAX Healthcare** and **EasyGov**, I worked with real operational data and saw how messy, inconsistent records quietly cost organisations time and money — that's what pulled me toward analytics.
+
+Since then I've built 4 end-to-end projects from scratch (no pre-cleaned Kaggle CSVs) — a hospital readmissions dataset calibrated against ICMR disease-burden data, an IT helpdesk SLA tracker modeled on how ServiceNow actually works, a SaaS product analytics warehouse, and a workforce disruption dashboard across 9 countries. Currently building a **Customer 360 Analytics Platform** — a star-schema warehouse unifying orders, marketing, support and website events into one Power BI view.
+
+I'm not looking to just make charts — I want to find the one number in a mess of data that changes what a team decides to do next.
 
 ---
 
@@ -30,23 +34,23 @@ Data Analyst with internship experience in healthcare (MAX Healthcare) and govte
 
 **Data & Analytics**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-2C5364?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-2C5364?style=for-the-badge&logo=powerbi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2C5364?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C5364?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-2C5364?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-2C5364?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-2C5364?style=for-the-badge&logo=microsoft&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-2C5364?style=for-the-badge&logo=powerbi&logoColor=white)
 
 **Tools & Environment**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Git](https://img.shields.io/badge/Git-0F2027?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0F2027?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0F2027?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-0F2027?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-0F2027?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
@@ -116,6 +120,17 @@ Workforce analytics across 15,000+ job records covering automation risk, salary 
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pratikshadandriyal&show_icons=true&theme=transparent&hide_border=true&title_color=2C5364&icon_color=2C5364&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshadandriyal&layout=compact&theme=transparent&hide_border=true&title_color=2C5364&text_color=ffffff" />
+
+</div>
+
+---
+
 ## 💭
 
 > *"Without data, you're just another person with an opinion."*
@@ -125,10 +140,10 @@ Workforce analytics across 15,000+ job records covering automation risk, salary 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer"/>
 
 **Open to Data Analyst opportunities · India · Let's connect**
 
-![Profile Views](https://komarev.com/ghpvc/?username=pratikshadandriyal&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=pratikshadandriyal&color=2C5364&style=for-the-badge)
 
 </div>
